@@ -1,0 +1,13 @@
+name: gbp
+channels:
+  - defaults
+  - cogsci
+  - conda-forge
+dependencies:
+  - python=3.5
+  - matplotlib
+  - ipython
+  - pip
+pip:
+  - pygame
+  - ipython
